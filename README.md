@@ -10,5 +10,7 @@ This script provides QR Codes as individual PNG files for each share in a BTSync
 
     $ btsync_qrcode.rb --help
     Usage: btsync_qrcode.rb [options]
+        --[no-]png                   Output as individual PNG files, default TRUE
+        --html FILE                  Print HTML QR Codes to FILE
     -f, --file FILE                  BTSync config file ( default ~/.btsync )
     -s, --size SIZE                  PNG image size (default 300)
