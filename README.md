@@ -3,6 +3,8 @@ btsync-qrcode
 
 BitTorrent Sync QR Code generator
 
+[BitTorrent Labs -- Sync](http://labs.bittorrent.com/experiments/sync.html)
+
 I like the idea of being able to sync directories on my android phone and tablet with my other systems.
 However, there is no way to generate the QR Code on linux if using a config file instead of the webui interface.
 
